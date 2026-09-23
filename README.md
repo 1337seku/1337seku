@@ -53,7 +53,7 @@ Optymalizacja	Automatyzacja
 ⭐ Najważniejsze projekty
 <div align="center"> <a href="https://github.com/1337seku/TWOJ-PROJEKT"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=1337seku&repo=TWOJ-PROJEKT&theme=tokyonight&hide_border=true"/> </a> <a href="https://github.com/1337seku/TWOJ-DRUGI-PROJEKT"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=1337seku&repo=TWOJ-DRUGI-PROJEKT&theme=tokyonight&hide_border=true"/> </a> </div>
 
-💡 Gdy dodasz swoje projekty, zamień TWOJ-PROJEKT oraz TWOJ-DRUGI-PROJEKT na nazwy repozytoriów.
+💡 na razie nie mam.
 
 📊 GitHub
 <div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=1337seku&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1337seku&layout=compact&theme=tokyonight&hide_border=true"/>
